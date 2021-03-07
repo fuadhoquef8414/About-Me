@@ -18,3 +18,5 @@ finish all homework/classwork
 eat dinner 
 more chill time 
 sleep
+
+Extra: My favorite sport is basketball!
