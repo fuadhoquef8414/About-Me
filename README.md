@@ -27,5 +27,6 @@ Extra:
 - favorite sport is basketball!
   - I also like football.
 - favorite show is All American.
-- favorite cartoon is Spongebob.      
+- favorite cartoon is Spongebob.  
+- favorite anime is DBZ
 [learn More About Me](https://fuadhoquef8414.github.io/)
